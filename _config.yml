@@ -1,0 +1,14 @@
+layout_spectrum: 0.6179773763287812
+typography_spectrum: 0.15142417792230844
+color:
+  brandStrength: 0.14576490432955325
+  lightness: 0.9493804615922272
+  saturation: 0.20531290490180254
+  rhythmicContrast: 0.9465205923188478
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Wherewithal
